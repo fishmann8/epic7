@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "./static/css/main.cb05933b.css",
+    "main.js": "./static/js/main.976ec106.js",
+    "static/media/暴击套.png": "./static/media/暴击套.81217e9af69a1bd7d611.png",
+    "static/media/速度套.png": "./static/media/速度套.80dfe4cca4f0087def0b.png",
+    "static/media/项链.png": "./static/media/项链.e1a2425e535beaf3fd1a.png",
+    "static/media/戒指.png": "./static/media/戒指.5127efb29d1a4bb4654d.png",
+    "index.html": "./index.html",
+    "main.cb05933b.css.map": "./static/css/main.cb05933b.css.map",
+    "main.976ec106.js.map": "./static/js/main.976ec106.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cb05933b.css",
+    "static/js/main.976ec106.js"
+  ]
+}
